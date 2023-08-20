@@ -1,0 +1,13 @@
+{
+  "name": "config",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "files": [
+    "eslint-preset.js"
+  ],
+  "dependencies": {
+    "@next/eslint-plugin-next": "^13.4.13",
+    "eslint-config-prettier": "^9.0.0"
+  }
+}
